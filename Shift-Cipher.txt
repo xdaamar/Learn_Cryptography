@@ -1,0 +1,47 @@
+> Case 1
+
+- Diketahui sebuah plaintext: SELAMAT DATANG DI KELAS KRIPTOGRAFI
+- Kunci (K) = 2 -> ke kanan
+- Chiphertext=... ?
+
+  RUMUS :
+     -> A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+     -> C D E F G H I J K L M N O P Q R S T U V W X Y Z C D
+
+  JAWAB :
+     -> UGNCOCV FCVCPI FK MGNCU MTKRVQITCHK
+
+> Case 2
+
+- Diketahui sebuah plaintext: SELAMAT DATANG DI KELAS KRIPTOGRAFI
+- Kunci (K) = 16 -> ke kanan
+- Chiphertext=... ?
+
+  RUMUS :
+     -> A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+     -> Q R S T U V W X Y Z A B C D E F G H I J K L M N O P
+
+  JAWAB :
+    -> IUBQCQJ TQJQDW TY AUBQI AHYFJEWHQVY
+
+> Case 3
+
+- Diketahui sebuah plaintext: SELAMAT DATANG DI KELAS KRIPTOGRAFI
+- Kunci (K) = 16 -> ke kiri
+- Chiphertext=... ?
+
+  RUMUS :
+     -> A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+     -> K L M N O P Q R S T U V W X Y Z A B C D E F G H I J
+
+  JAWAB :
+    -> COVKWK NKDKXQ NS UOVKC USBZDYQBKPS
+
+
+===================
+Shift cipher kriptografi adalah metode enkripsi klasik di mana setiap huruf dalam teks asli digeser sejumlah posisi tertentu dalam urutan alfabet berdasarkan kunci pergeseran.
+
+
+
+
+
