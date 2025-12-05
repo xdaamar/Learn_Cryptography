@@ -1,0 +1,19 @@
+Pengertian : 
+Substitution cipher (sandi substitusi) adalah metode enkripsi klasik di mana setiap huruf atau simbol dalam teks asli (plaintext) diganti dengan huruf, simbol, atau karakter lain sesuai aturan atau kunci yang telah ditentukan
+
+Rumus ROT :
+    ROT memiliki banyak jenis, contohnya :
+    - ROT13 : Merotasikan setiap urutan ke 13 dari Alphabet 
+    -> cnth : A B C D E F G H I J K L M
+              N O P Q R S T U V W X Y Z
+
+* Syarat ROT : baris atas dan bawah hasrus SAMA jumlahnya.
+
+==========
+
+Latihan :
+Text       : SELAMAT DATANG DI KELAS KRIPTOGRAFI
+Kunci(K)   : ROT13
+Ciphertext : FRYNZNG QNGNAT QV XRYNF XEVCGBTENSV
+
+
